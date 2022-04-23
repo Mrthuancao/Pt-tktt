@@ -34,13 +34,13 @@
       <tr>
        <td>Nguyễn Trung Nhân</td>
        <td>20521346</td>
-       <td> https://github.com/MickeyNeo</td>
+       <td>https://github.com/MickeyNeo</td>
        <td>20520670@gm.uit.edu.vn</td>  
       </tr>
       <tr>
        <td>Cao Thế Thuận</td>
-       <td></td>
-       <td> https://github.com/Mrthuancao</td>
+       <td>20520793</td>
+       <td>https://github.com/Mrthuancao</td>
        <td>20520793@gm.uit.edu.vn</td>  
       </tr>
 </table>
