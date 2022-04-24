@@ -33,7 +33,7 @@
       </tr>
       <tr>
        <td>Nguyễn Trung Nhân</td>
-       <td>20521346</td>
+       <td>20520670</td>
        <td>https://github.com/MickeyNeo</td>
        <td>20520670@gm.uit.edu.vn</td>  
       </tr>
