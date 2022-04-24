@@ -1,0 +1,8 @@
+Ưu điểm:
+- Tương tác với mọi người tốt
+- Giúp mọi người tiếp thu được thông tin
+Nhược điểm:
+- Câu hỏi chưa được hay
+- Powerpoint chưa đạt
+- Còn thiếu phần templates của bài toán
+- Các bài toán được ví dụ quá cũ, có nhiều cách giải không chỉ riêng Brute force.
